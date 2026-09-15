@@ -1,0 +1,9 @@
+schema_version: '1.0'
+domain:
+  id: political-violence
+  label: Political Violence
+  repository: LystadJS/domain-political-violence
+  status: planned
+  summary: Empirical study of organized violence, conflict behavior, civilian targeting,
+    and violent political systems.
+  related_domains: []
